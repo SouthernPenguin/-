@@ -1,0 +1,3 @@
+观察者：Subject和Observer直接绑定，中间没有媒介
+发布订阅：Publisher和Observer互不认识，中间有媒介
+【看是否需要手动触发，如果有基本就是【发布订阅】】
